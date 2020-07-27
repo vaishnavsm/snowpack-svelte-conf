@@ -29,6 +29,5 @@
     "@babel/preset-env": "^7.9.0",
     "@snowpack/plugin-dotenv": "^1.6.0-alpha.0",
     "@snowpack/plugin-svelte": "^1.2.0"
-  },
-  "gitHead": ""
+  }
 }
