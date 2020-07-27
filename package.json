@@ -2,6 +2,13 @@
   "name": "@vaishnavsm/snowpack-svelte-conf",
   "version": "1.0.0",
   "main": "snowpack.config.js",
+  "description": "A simplified snowpack configuration for svelte without jest",
+  "keywords": [
+    "snowpack",
+    "svelte",
+    "typescript",
+    "ts"
+  ],
   "author": {
     "name": "Vaishnav Sreekanth Menon",
     "email": "vaishnavsm@gmail.com",
