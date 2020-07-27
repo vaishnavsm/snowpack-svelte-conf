@@ -1,0 +1,27 @@
+{
+  "name": "@vaishnavsm/snowpack-svelte-conf",
+  "version": "1.0.0",
+  "main": "snowpack.config.js",
+  "author": {
+    "name": "Vaishnav Sreekanth Menon",
+    "email": "vaishnavsm@gmail.com",
+    "url": "https://vaishnavsm.github.io"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "svelte": "^3.21.0"
+  },
+  "devDependencies": {
+    "svelte": "^3.21.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "@snowpack/plugin-dotenv": "^1.6.0-alpha.0",
+    "@snowpack/plugin-svelte": "^1.2.0"
+  },
+  "gitHead": ""
+}
